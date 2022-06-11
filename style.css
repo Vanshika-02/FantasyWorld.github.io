@@ -1,0 +1,70 @@
+.nav{
+    background-color:black;
+     height: 20vh;
+     margin: -26px;
+     margin-left:-8px;
+     /* padding-top: 3vh; */
+     /* padding-bottom: -6px; */
+     /* padding:auto; */
+ }
+body{
+    overflow: hidden;
+    /* background-image: url("https://www.chromethemer.com/wallpapers/chromebook-wallpapers/download/dark-space-3840x2160.jpg"); */
+}
+ .list{
+     /* border: solid white; */
+     color: thistle;
+     list-style-type: none;
+    padding-top: 50px;
+    width: 50%;
+    margin-left: auto;
+ }
+
+ .item{
+    display: inline-block;
+    font-size: 30px;
+
+ }
+
+ .nav li a:hover{
+     text-decoration: underline;
+ }
+
+ .nav li a:active{
+     color: white;
+ }
+  
+ .nav li a{
+     margin: 29px;
+     color: grey;
+     text-decoration: none;
+     font-family:Georgia, Verdana, sans-serif;
+     }
+
+.body{
+    height: 100vh;
+    margin-top: 2vh;
+    margin:-4vh;
+    background-repeat: no-repeat;
+    background-image: url("https://www.chromethemer.com/wallpapers/chromebook-wallpapers/download/dark-space-3840x2160.jpg");
+    padding-top: 120px;
+  
+}
+
+h1{
+    margin: 0px;
+    color: rgba(252, 252, 253, 0.692);
+    text-indent: 100px;
+    font-family:  Copperplate, Papyrus, fantasy;
+    font-size: 70px;
+    text-shadow: 5px 5px 8px ;
+}
+
+h2{
+    margin: 0px;
+    color: rgba(252, 252, 253, 0.692);
+    text-indent: 100px;
+    font-family:  Copperplate, Papyrus, fantasy;
+    font-size: 39px;
+    text-shadow: 5px 5px 8px ;
+}

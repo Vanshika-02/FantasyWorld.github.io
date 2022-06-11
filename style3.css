@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/esweYz4.jpg");
+    background-repeat: no-repeat;
+    /* overflow:hidden; */
+}
+
+h1{
+    margin: 0px;
+    color: rgba(252, 252, 253, 0.692);
+    text-align: center;
+    font-family:  Copperplate, Papyrus, fantasy;
+    font-size: 80px;
+    text-shadow: 4px 4px 7px ;
+}
+
+.stuff{
+    /* border:solid white; */
+    /* height: 500px; */
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 20px;
+}
+
+.item{
+    text-align: center;
+    border: solid white;
+    margin:auto;
+    width:400px;
+    height: 210px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.stuff div a{
+    color: rgb(176, 156, 231);
+    text-decoration: underline;
+    font-size: 30px;
+}
+    
+.stuff div p{
+    margin: 20px;
+}

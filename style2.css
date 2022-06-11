@@ -1,0 +1,44 @@
+
+    body h1 {
+        margin: 0px;
+        color: rgba(252, 252, 253, 0.692);
+        text-align: center;
+        font-family:  Copperplate, Papyrus, fantasy;
+        font-size: 80px;
+        text-shadow: 4px 4px 7px ;
+    }
+
+    form{
+        margin-top: 40px;
+        margin-left: 25%;
+        width:50%;
+        /* border:  double rgb(147, 150, 151);
+        border-radius:100px ; */
+        color:rgb(147, 150, 151);
+
+    }
+
+   label #name,#age,#country,#email,#submit{
+       border-radius: 10pc;
+       font-family:Georgia, Verdana, sans-serif;
+       color: white;
+       margin-top:10px;
+       margin-bottom:10px;
+        margin-left:25%;
+        background-color: rgba(3, 27, 51, 0.295);
+       height: 40px;
+       width:50%;
+       border: none;
+    }
+
+  form p{
+      /* for gender  */
+        margin-left:25%;
+        margin-bottom: -2%;
+    }
+
+    form div{
+        /* for gender */
+        width: 50%;
+         margin-left:25%;
+    }
